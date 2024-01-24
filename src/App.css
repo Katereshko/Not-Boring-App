@@ -7,11 +7,11 @@ body{
 }
 
 .main{
-  margin-bottom: 80px;
+  margin-bottom: 40px;
 }
 
 .bigger-margin{
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .container{
@@ -35,21 +35,26 @@ p, button{
 }
 
 p{
-  font-size: 26px;
+  font-size: 20px;
 }
 
 h1, h2{
   font-family: 'Indie Flower', cursive;
+  margin-bottom: 0;
 }
 
 .advice{
-  padding: 40px 30px;
+  padding: 20px 30px;
   background-color: #fff4f2;
   border: #fcc201 3px solid;
   border-radius: 20px;
   width: 50%;
   align-self: center;
-  font-size: 35px;
+  font-size: 26px;
+}
+
+.price{
+  color: grey;
 }
 
 button{
@@ -58,6 +63,6 @@ button{
   cursor: pointer;
   border: none;
   border-radius: 10px;
-  padding: 30px 60px;
-  font-size: 40px;
+  padding: 20px 60px;
+  font-size: 30px;
 }
